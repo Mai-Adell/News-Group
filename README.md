@@ -12,14 +12,13 @@ We used techniques like :
 • TF-IDF for feature extraction.
 
 Then we use classifiers to classify news items.
-<b Results :
+<p>Results :
 • Naive Bayes : 0.8474
 • SVM : 89.2
 • KNN : 0.8476
 • Decision Tree : 0.8476
 • Random Forest : 0.8476
-• Logistic Regression : 89.0
-  </b>
+• Logistic Regression : 89.0</p>
 
 
 
