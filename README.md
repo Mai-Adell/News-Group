@@ -5,7 +5,7 @@
 
 
 
-<p>It's our first natural language processing project, where we classify each news item to it's right group. We read data from folder on PC and put into data frame to be easier in preprocessing. We used NLP techniques to process our news items and get features from them to train our classifiers.<br>
+<p><br>It's our first natural language processing project, where we classify each news item to it's right group. We read data from folder on PC and put into data frame to be easier in preprocessing. We used NLP techniques to process our news items and get features from them to train our classifiers.<br>
 We used techniques like :<br>
 • Word tokenization.<br>
 • lemmatization.<br>
