@@ -1,7 +1,7 @@
 # News-Group
 
 
-## A natural language processing project which categorize news items into its own group from 20 groups of news
+### A natural language processing project which categorize news items into its own group from 20 groups of news
 
 
 
