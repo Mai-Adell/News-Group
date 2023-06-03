@@ -5,20 +5,21 @@
 
 
 
-It's our first natural language processing project, where we classify each news item to it's right group. We read data from folder on PC and put into data frame to be easier in preprocessing. We used NLP techniques to process our news items and get features from them to train our classifiers.
+<pre>It's our first natural language processing project, where we classify each news item to it's right group. We read data from folder on PC and put into data frame to be easier in preprocessing. We used NLP techniques to process our news items and get features from them to train our classifiers.
 We used techniques like :
 • Word tokenization.
 • lemmatization.
 • TF-IDF for feature extraction.
 
 Then we use classifiers to classify news items.
-<p>Results :
+Results :
 • Naive Bayes : 0.8474
 • SVM : 89.2
 • KNN : 0.8476
 • Decision Tree : 0.8476
 • Random Forest : 0.8476
-• Logistic Regression : 89.0</p>
+• Logistic Regression : 89.0
+</pre>
 
 
 
